@@ -1,0 +1,12 @@
+{
+  "name": "starpets-clone",
+  "version": "1.0.0",
+  "description": "Starpets tarzı eşya vitrini ve Shopier entegrasyonu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
